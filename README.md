@@ -56,6 +56,7 @@ The analysis explores how cancellation rates vary across hotel types, lead time,
 * Booking cancellations
 
 📁 Project Files
+
 hotel_booking_analysis.ipynb — Complete Jupyter Notebook containing data preparation, analysis, visualizations, and findings
 
 ## 💡 Conclusion
