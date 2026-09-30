@@ -55,9 +55,9 @@ The analysis explores how cancellation rates vary across hotel types, lead time,
 * Average Daily Rate (ADR)
 * Booking cancellations
 
-📁 Project Files
+## 📁 Project Files
 
-hotel_booking_analysis.ipynb — Complete Jupyter Notebook containing data preparation, analysis, visualizations, and findings
+- [hotel_booking_analysis.ipynb](./hotel_booking_analysis.ipynb) — Complete Jupyter Notebook containing data preparation, analysis, visualizations, and findings.
 
 ## 💡 Conclusion
 
